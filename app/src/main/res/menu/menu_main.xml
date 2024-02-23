@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Carrito"
+        android:id="@+id/carrito_compra"
+        android:icon="@drawable/carrito"
+
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
